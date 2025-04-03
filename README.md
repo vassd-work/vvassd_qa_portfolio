@@ -4,8 +4,8 @@
 ## 📂 /Test_Documentation
 
 ### Checklists
-- **Registration Form Testing** ([registration_checklist.xlsx](#))
-- **API Testing Checklist** ([api_checklist.xlsx](#))
+- **Registration Form Testing** ([registration_checklist.xlsx](./Test_Documentation/Checklists/registration_checklist.xlsx))
+- **API Testing Checklist** ([api_checklist.xlsx](./Test_Documentation/))
 
 ### Test Plans
 - **Regression Testing Plan** ([regression_test_plan.md](#))
