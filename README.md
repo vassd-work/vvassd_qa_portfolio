@@ -41,3 +41,10 @@
 - **Cases on process optimization** ([optimization_cases.md](./QA_Lead/optimization_cases.md))
 
 ---
+
+## 📂 /Certificates
+
+### UI Reports
+- **Training certificates** ([certificates](./Certificates))
+
+---
